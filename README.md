@@ -229,9 +229,9 @@ Add screenshots of important visualizations inside the **images/** folder and sh
 
 Example:
 
-![Restaurant Types](images/restaurant_types.png)
+![Restaurant Types](images/type-restaurant.png)
 
-![Ratings Distribution](images/ratings_distribution.png)
+![Ratings Distribution](images/ratings.png)
 
 ![Heatmap](images/heatmap.png)
 
